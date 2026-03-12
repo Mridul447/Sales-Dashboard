@@ -5,3 +5,4 @@ customer ordering patterns, and peak sales hours.
 sales by category, location-wise performance, and daily/monthly growth trends
 • Transformed and modeled raw data to generate actionable insights that supported pricing optimization, inventory
 planning, and targeted promotional strategies to improve overall sales performance.
+https://github.com/Mridul447/Sales-Dashboard/blob/main/Pizza_Sales_Dashboard.png
